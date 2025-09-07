@@ -1,8 +1,9 @@
 # Hi there 👋, I'm Neha B R 
+![Developer Animation](developer.png)
 
 ## 🚀 Full Stack Python Developer  
 Passionate about building scalable web applications and solving real-world problems with technology.  
-![Developer Animation](developer.png)
+
 
 ### 🛠 Tech Stack  
 - **Languages:** Python, JavaScript, SQL, HTML, CSS  
