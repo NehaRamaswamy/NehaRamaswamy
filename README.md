@@ -2,6 +2,7 @@
 
 ## 🚀 Full Stack Python Developer  
 Passionate about building scalable web applications and solving real-world problems with technology.  
+![Developer Animation](developer.png)
 
 ### 🛠 Tech Stack  
 - **Languages:** Python, JavaScript, SQL, HTML, CSS  
@@ -14,9 +15,6 @@ Passionate about building scalable web applications and solving real-world probl
 
 ### ✨ Projects Showcase   
 - 🔗 [Budget Tracker](https://github.com/NehaRamaswamy/budget-tracker) – Python + Pandas  
-
-### 🎬 Developer Animation  
-![Developer Animation](developer.png)  
 
 ### 📫 Connect with Me  
 - LinkedIn: [Neha B R](linkedin.com/in/neha-b-r-b2b773232)  
