@@ -12,15 +12,12 @@ Passionate about building scalable web applications and solving real-world probl
 ### 📈 GitHub Stats  
 ![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=neharamaswamy&show_icons=true&theme=radical)  
 
-### ✨ Projects Showcase  
-- 🔗 [E-commerce Website](https://github.com/yourusername/ecommerce) – Django + React  
-- 🔗 [Portfolio Website](https://github.com/yourusername/portfolio) – HTML, CSS, JS  
-- 🔗 [Data Analysis Project](https://github.com/yourusername/data-analysis) – Python + Pandas  
+### ✨ Projects Showcase   
+- 🔗 [Budget Tracker](https://github.com/NehaRamaswamy/budget-tracker) – Python + Pandas  
 
 ### 🎬 Developer Animation  
-![Developer Animation](media/developer.gif)  
+![Developer Animation](developer.png)  
 
 ### 📫 Connect with Me  
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourusername)  
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)  
-- Email: yourname@email.com  
+- LinkedIn: [Neha B R](linkedin.com/in/neha-b-r-b2b773232)  
+- Email: nehakoppa080@gmail.com  
