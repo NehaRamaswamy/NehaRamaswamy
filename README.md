@@ -5,9 +5,9 @@ Passionate about building scalable web applications and solving real-world probl
 
 ### 🛠 Tech Stack  
 - **Languages:** Python, JavaScript, SQL, HTML, CSS  
-- **Frameworks:** Django, Flask, React (optional)  
-- **Databases:** MySQL, PostgreSQL  
-- **Tools:** Git, Docker, VS Code  
+- **Frameworks:** Django  
+- **Databases:** MySQL, Orcale SQL  
+- **Tools:** Git,VS Code  
 
 ### 📈 GitHub Stats  
 ![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=neharamaswamy&show_icons=true&theme=radical)  
