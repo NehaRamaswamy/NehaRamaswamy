@@ -17,15 +17,13 @@ I'm a passionate software developer specializing in **full-stack python developm
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 
 ## Projects
 
 ### [TaskMaster](https://github.com/NehaRamaswamy/taskmaster)
 A productivity web app to help users organize and track their daily tasks. Built with React, Node.js, and MongoDB.
-
-![TaskMaster Screenshot](https://via.placeholder.com/600x300.png?text=TaskMaster+Screenshot)
 
 ---
 
