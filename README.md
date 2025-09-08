@@ -1,17 +1,17 @@
-# Hi there 👋, I'm Neha B R 
 ![Developer Animation](developer.png)
+# Hi there 👋, I'm Neha B R 
 
-## 🚀 Full Stack Python Developer  
+## Full Stack Python Developer  
 Passionate about building scalable web applications and solving real-world problems with technology.  
 
 
-### 🛠 Tech Stack  
+### Tech Stack  
 - **Languages:** Python, JavaScript, SQL, HTML, CSS  
 - **Frameworks:** Django  
 - **Databases:** MySQL, Orcale SQL  
 - **Tools:** Git,VS Code  
 
-### 📈 GitHub Stats  
+### GitHub Stats  
 ![Neha's GitHub stats](https://github-readme-stats.vercel.app/api?username=neharamaswamy&show_icons=true&theme=radical)  
 
 ### ✨ Projects Showcase   
