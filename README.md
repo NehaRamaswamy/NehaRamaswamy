@@ -18,5 +18,5 @@ Passionate about building scalable web applications and solving real-world probl
 - 🔗 [Budget Tracker](https://github.com/NehaRamaswamy/budget-tracker) – Python + Pandas  
 
 ### 📫 Connect with Me  
-- LinkedIn: [Neha B R](linkedin.com/in/neha-b-r-b2b773232)  
+- LinkedIn: (linkedin.com/in/neha-b-r-b2b773232)  
 - Email: nehakoppa080@gmail.com  
