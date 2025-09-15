@@ -26,7 +26,7 @@ I'm a passionate software developer specializing in **full-stack python developm
 ## Projects
 
 ### [TaskMaster](https://github.com/NehaRamaswamy/taskmaster)
-A productivity web app to help users organize and track their daily tasks. Built with React, Node.js, and MongoDB.
+A productivity web app to help users organize and track their daily tasks. 
 
 ---
 
