@@ -10,7 +10,7 @@ I'm a passionate software developer specializing in **full-stack python developm
 - 🌱 I’m learning **DJANGO FRAMEWORK** to improve deployment skills.
 - 👯 I’m looking to collaborate on open source projects related to **FULL STACK** and **web development**.
 - 💬 Ask me about **JavaScript**, **Python**, **SQL**,**HTML**,**CSS**,**DJANGO**.
-- 📫 How to reach me: [neha.ramaswamy@example.com](mailto:neha.ramaswamy@example.com)
+- 📫 How to reach me: [nehakoppa080@gmail.com](mailto:nehakoppa080@gmail.com)
 - ⚡ Fun fact: I love hiking and photography!
 - 🏆 HackerRank Profile: [Check out my work](https://www.hackerrank.com/profile/nehakoppa080)
 
