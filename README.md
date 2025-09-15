@@ -1,6 +1,6 @@
 
 ![Developer Animation](developer.png)
-# Hi there, I'm Neha Ramaswamy 👋
+# Hi there, I'm Neha B R 👋
 
 ## About Me
 
