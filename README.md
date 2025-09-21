@@ -2,6 +2,10 @@
 ![Developer Animation](developer.png)
 # Hi there, I'm Neha B R 👋
 
+![Build Status](https://img.shields.io/github/actions/workflow/status/NehaRamaswamy/your-repo/ci.yml?branch=main)
+![License](https://img.shields.io/github/license/NehaRamaswamy/your-repo)
+![GitHub stars](https://img.shields.io/github/stars/NehaRamaswamy/your-repo?style=social)
+![GitHub forks](https://img.shields.io/github/forks/NehaRamaswamy/your-repo?style=social)
 ## About Me
 
 I'm a passionate software developer specializing in **full-stack python development** and **data science**. I enjoy building scalable web applications and exploring machine learning models to solve real-world problems.
